@@ -6,7 +6,7 @@ Simple script to get your balance of selected crypto coins in your binance accou
 
 * Telegram account
 
-     [Tutorial to create telegram bot](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e)
+     [Tutorial: create telegram bot and use it with python](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e)
     
  * Binance account
  
@@ -16,6 +16,11 @@ Simple script to get your balance of selected crypto coins in your binance accou
     
     
 * Generate API from your account (**Read only** permission is just needed)
+
+
+## Tips
+
+You can schedule running of script with **crontab**.
     
     
     
