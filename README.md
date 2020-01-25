@@ -10,7 +10,7 @@ Simple script to get your balance of selected crypto coins in your binance accou
     
  * Binance account
  
-     [Tutorial: How to get informations from your binance account with python](https://code.luasoftware.com/tutorials   /cryptocurrency/python-connect-to-binance-api/)
+     [Tutorial: How to get informations from your binance account with python](https://code.luasoftware.com/tutorials/cryptocurrency/python-connect-to-binance-api/)
      
      [Binance API documentation](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md#endpoint-security-type)
     
